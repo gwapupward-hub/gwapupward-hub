@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="52" viewBox="0 0 850 52" role="img" aria-label="Solana, Rust, Anchor, TypeScript, Next.js, React">
+  <g font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" text-anchor="middle">
+    <rect x="0" y="1" width="125" height="48" rx="8" fill="#101611" stroke="#304632"/><text x="62.5" y="31" fill="#13DD13">Solana</text>
+    <rect x="137" y="1" width="106" height="48" rx="8" fill="#141217" stroke="#46324e"/><text x="190" y="31" fill="#be9aff">Rust</text>
+    <rect x="255" y="1" width="118" height="48" rx="8" fill="#19130e" stroke="#594126"/><text x="314" y="31" fill="#ffb66d">Anchor</text>
+    <rect x="385" y="1" width="160" height="48" rx="8" fill="#111517" stroke="#30414e"/><text x="465" y="31" fill="#a5c9f0">TypeScript</text>
+    <rect x="557" y="1" width="142" height="48" rx="8" fill="#141618" stroke="#39404a"/><text x="628" y="31" fill="#edf1f5">Next.js</text>
+    <rect x="711" y="1" width="132" height="48" rx="8" fill="#101719" stroke="#29484e"/><text x="777" y="31" fill="#90d7e9">React</text>
+  </g>
+</svg>
